@@ -34,13 +34,6 @@ Run the following command to start the Streamlit app:
 
 streamlit run app.py
 
-### Explanation:
-
-The code utilizes the Streamlit library to create a user-friendly web application. Here's a brief overview of the functionalities:
-
-Streamlit components like st.title, st.selectbox, and st.pyplot are used to create the interactive interface.
-Pandas is used to read and manipulate the CSV data.
-Matplotlib and Seaborn are leveraged for creating various data visualizations based on user selections.
-How to Contribute:
+## How to Contribute:
 
 Feel free to fork this repository and submit pull requests with improvements or additional features!
