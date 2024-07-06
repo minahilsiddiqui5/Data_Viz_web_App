@@ -10,12 +10,21 @@ Choose columns for the X and Y axes.
 Generate different plot types: Line Plot, Bar Chart, Scatter Plot, Distribution Plot, Count Plot.
 
 ## Requirements:
-
 Python 3.x
+
 Streamlit
+
 Pandas
+
 Matplotlib
+
 Seaborn
+
+Open a terminal or command prompt and navigate to your project directory.
+
+Run the following command to install all the libraries listed in requirements.txt:
+
+pip install -r requirements.txt
 
 ## Installation:
 
