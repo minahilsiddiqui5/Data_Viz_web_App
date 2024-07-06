@@ -26,20 +26,15 @@ Run the following command to install all the libraries listed in requirements.tx
 
 pip install -r requirements.txt
 
-## Installation:
-
-Could you make sure you have Python 3.x installed on your system?
-You can open a terminal or command prompt and then navigate to your project directory.
-Run the following command to install the required libraries:
-
-pip install streamlit pandas matplotlib seaborn
 
 ## Usage:
 Clone or download this repository.
 Open a terminal or command prompt and navigate to the project directory.
 Run the following command to start the Streamlit app:
+
 streamlit run app.py
-Explanation:
+
+### Explanation:
 
 The code utilizes the Streamlit library to create a user-friendly web application. Here's a brief overview of the functionalities:
 
