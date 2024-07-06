@@ -8,7 +8,8 @@ Select a CSV file from the data directory.
 Preview the first few rows of the data.
 Choose columns for the X and Y axes.
 Generate different plot types: Line Plot, Bar Chart, Scatter Plot, Distribution Plot, Count Plot.
-Requirements:
+
+## Requirements:
 
 Python 3.x
 Streamlit
